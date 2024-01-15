@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yakupahmetyolcu
-- 👀 I’m interested in Frontend Development and UAV Interface Design
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in Frontend Development and UI-UX Design
+- 🌱 I’m currently learning JavaScript and tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
